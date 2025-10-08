@@ -3,7 +3,7 @@ import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
-import GTM from "./components/GTM";
+import GTM from "./components/gtm";
 const GTM_ID = "GTM-NDSZ4V";
 
 export const metadata: Metadata = {
