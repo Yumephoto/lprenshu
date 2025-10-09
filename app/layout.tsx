@@ -7,8 +7,8 @@ import GTM from "./components/gtm";
 const GTM_ID = "GTM-NDSZ4V";
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: '卒園アルバム.com',
+  description: '保育士・幼稚園教諭のための卒園アルバム制作サービス。AIを活用した機能や安心のサポート体制で業務負担を軽減します。',
   generator: 'v0.app',
 }
 
