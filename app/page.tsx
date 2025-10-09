@@ -91,7 +91,7 @@ export default function YumephotoLanding() {
             className="border-pink-300 text-pink-600 hover:bg-pink-50 bg-transparent text-xs md:text-sm px-2 md:px-4"
             asChild
           >
-            <Link href="https://www.yumephoto.com/contact/?campaign=lp_g" target="_blank">
+            <Link href="https://www.sotsuenalbum.com/contact/?campaign=lp_g" target="_blank">
               資料請求
             </Link>
           </Button>
@@ -183,7 +183,7 @@ export default function YumephotoLanding() {
                     className="bg-red-600 hover:bg-red-700 text-white px-6 md:px-8 py-3 md:py-4 text-base md:text-lg shadow-lg"
                     asChild
                   >
-                    <Link href="https://www.yumephoto.com/contact/?campaign=lp_g" target="_blank">
+                    <Link href="https://www.sotsuenalbum.com/contact/?campaign=lp_g" target="_blank">
                       資料をダウンロードする
                     </Link>
                   </Button>
@@ -859,7 +859,7 @@ export default function YumephotoLanding() {
                     className="w-full bg-gradient-to-r from-orange-400 to-orange-600 hover:from-orange-500 hover:to-orange-700 text-white py-3 md:py-4 text-base md:text-lg shadow-lg"
                     asChild
                   >
-                    <Link href="https://www.yumephoto.com/contact/?campaign=lp_g" target="_blank">
+                    <Link href="https://www.sotsuenalbum.com/contact/?campaign=lp_g" target="_blank">
                       資料請求
                     </Link>
                   </Button>
@@ -984,7 +984,7 @@ export default function YumephotoLanding() {
                   className="bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white px-8 md:px-12 py-4 md:py-6 text-lg md:text-xl shadow-2xl hover:shadow-3xl transition-all"
                   asChild
                 >
-                  <Link href="https://www.yumephoto.com/contact/?campaign=lp_g" target="_blank">
+                  <Link href="https://www.sotsuenalbum.com/contact/?campaign=lp_g" target="_blank">
                     <FileText className="mr-2 md:mr-3 h-5 md:h-6 w-5 md:w-5" />
                     <span className="hidden sm:inline">{"とりあえず資料が欲しい！"}</span>
                     <span className="sm:hidden">資料ダウンロード</span>
