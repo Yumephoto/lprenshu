@@ -136,7 +136,7 @@ export default function YumephotoLanding() {
 
               <div className="hero-content">
                 <h1 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold leading-tight mb-6 md:mb-8">
-                  <span className="text-gray-800">先生、今年も</span>
+                  <span className="text-gray-800">先生!今年も</span>
                   <br />
                   <span className="text-white">"家族より卒アル"</span>
                   <br />
